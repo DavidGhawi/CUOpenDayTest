@@ -1,3 +1,4 @@
+// David Ghawi Interview Exercise
 // main.ts
 import './style.css'
 import cuLogo from '/cu-logo.svg'
